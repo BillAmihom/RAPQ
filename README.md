@@ -3,7 +3,7 @@ Pytorch implementation of RAPQ, IJCAI 2022
 
 RAPQ: Rescuing Accuracy for Power-of-Two Low-bit Post-training Quantization
 
-RAPQ provides the Power-of-Two quantization scheme for PTQ specially. Because of BRECQ's SOTA performance, this hub implements RAPQ based on BRECQ by Yuhang Li @yhhhli. https://github.com/yhhhli/BRECQ.
+RAPQ provides the Power-of-Two quantization scheme for PTQ specially. Because of BRECQ's SOTA performance in PTQ area, this hub implements RAPQ based on BRECQ by Yuhang Li @yhhhli. https://github.com/yhhhli/BRECQ.
 
 !WARNING: please download the pretrained models before running this program! 
 
