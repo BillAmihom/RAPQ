@@ -7,7 +7,7 @@ RAPQ provides the Power-of-Two quantization scheme for PTQ specially. Because of
 
 !WARNING: please download the pretrained models before running this program! 
 
-1.Download pretrained models.(Thanks for the model provided by @yhhhli ! )
+1.Download pretrained models.(Thanks for pretrained models provided by @yhhhli ! )
 
 resnet18:
 
