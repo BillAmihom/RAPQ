@@ -1,5 +1,5 @@
 # RAPQ
-Pytorch implementation of RAPQ, IJCAI 2022
+Pytorch implementation of RAPQ, IJCAI 2022. Any question can be asked, please contract with E-mail: yhy@stu.pku.edu.cn
 
 RAPQ: Rescuing Accuracy for Power-of-Two Low-bit Post-training Quantization
 
