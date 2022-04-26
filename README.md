@@ -7,6 +7,7 @@ RAPQ provides the Power-of-Two quantization scheme for PTQ specially. Because of
 !WARNING: please download the pretrained models before running this program! 
 
 1.download pretrained models.
+
 resnet18:
 https://github.com/yhhhli/BRECQ/releases/download/v1.0/resnet18_imagenet.pth.tar
 resnet50:
