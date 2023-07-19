@@ -2,7 +2,7 @@
 Pytorch implementation of RAPQ, IJCAI 2022. [link](http://arxiv.org/abs/2204.12322)
 
 # Contact
-Any question can be asked, please contact with E-mail: yhy@stu.pku.edu.cn
+Any question can be asked, please contact with E-mail: 813767017@qq.com
 
 # Notice
 - RAPQ provides the Power-of-Two quantization scheme for PTQ specially. Because of BRECQ's SOTA performance in PTQ area, this hub implements RAPQ based on [BRECQ](https://github.com/yhhhli/BRECQ) by Yuhang Li @yhhhli. .
